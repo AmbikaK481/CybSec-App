@@ -1,4 +1,4 @@
-class screen3{
+class SCREEN3{
     constructor(){
        this.input = createInput("Name");
        database.ref('Name');
